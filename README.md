@@ -15,6 +15,6 @@ Java
 - Spring Boot DevTools
 - Lombok
 - Validation
-- PostgreSQL Driver
+- PostgreSQL Driver  
 (Otras dependencias a añadir luego)
 - Spring Security
